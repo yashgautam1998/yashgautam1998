@@ -1,29 +1,36 @@
-YASH GAUTAM
+# 👋 Hi, I’m **Yash Gautam**
 
-Welcome to My GitHub Profile!
+✨ Welcome to My GitHub Profile! ✨  
 
-About Me
+---
 
-As an AI/ML enthusiast, I’m passionate about transforming real-world challenges into intelligent solutions. My journey into tech began with a deep curiosity about how data and models drive smarter decisions—evolving into hands-on experience across the AI/ML stack.I work extensively with Python and core data science libraries like NumPy and Panda to analyze, visualize, and prepare data for downstream machine learning tasks. On the AI side, I build LLM-powered applications and AI agents using tools like LangChain, ChromaDB, and Ollama, and apply transformer models such as BERT and FinBERT through the Hugging Face ecosystem.
+## 💫 About Me
+As an **AI/ML enthusiast**, I’m passionate about transforming real-world challenges into intelligent solutions.  
 
-Skills
+🔹 My journey into tech began with a curiosity about how data and models drive smarter decisions—evolving into hands-on experience across the AI/ML stack.  
+🔹 I work extensively with **Python** and data science libraries like **NumPy** and **Pandas** to analyze, visualize, and prepare data for downstream ML tasks.  
+🔹 On the AI side, I build **LLM-powered applications** and **AI agents** using **LangChain**, **ChromaDB**, and **Ollama**, and apply transformer models like **BERT** and **FinBERT** via **Hugging Face**.  
 
-Python
-Numpy, Pandas
-AI, LLMS
-Machine learning, Transformers
-Postgresql
-Problem-solving
-Time management
-Algorithm optimization
-Content moderation
+---
 
-Contact Me
-LinkedIn: www.linkedin.com/in/yash-gautam-47084436b
-GitHub: github.com/yashgautam1998
-Email: ygautam96@gmail.com
-Phone: +91 7688929065
+## 🛠️ Skills
+- 🐍 Python  
+- 📊 NumPy, Pandas  
+- 🤖 AI, LLMs  
+- 🔬 Machine Learning, Transformers  
+- 🗄️ PostgreSQL  
+- ⚡ Problem-solving, Algorithm Optimization  
+- ⏳ Time Management  
+- 🛡️ Content Moderation  
 
-Let's connect and explore the captivating world of data science together!
+---
 
-Thank you for visiting my profile!
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gautam-47084436b)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yashgautam1998)  
+📧 **Email:** ygautam96@gmail.com  
+📱 **Phone:** +91 7688929065  
+
+---
+⭐️ *Thank you for visiting my profile!*  
+💡 Let’s connect and explore the captivating world of **AI & ML** together. 🚀
