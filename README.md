@@ -1,16 +1,29 @@
-## Hi there 👋
+YASH GAUTAM
 
-<!--
-**yashgautam1998/yashgautam1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As an AI/ML enthusiast, I’m passionate about transforming real-world challenges into intelligent solutions. My journey into tech began with a deep curiosity about how data and models drive smarter decisions—evolving into hands-on experience across the AI/ML stack.I work extensively with Python and core data science libraries like NumPy and Panda to analyze, visualize, and prepare data for downstream machine learning tasks. On the AI side, I build LLM-powered applications and AI agents using tools like LangChain, ChromaDB, and Ollama, and apply transformer models such as BERT and FinBERT through the Hugging Face ecosystem.
+
+Skills
+
+Python
+Numpy, Pandas
+AI, LLMS
+Machine learning, Transformers
+Postgresql
+Problem-solving
+Time management
+Algorithm optimization
+Content moderation
+
+Contact Me
+LinkedIn: www.linkedin.com/in/yash-gautam-47084436b
+GitHub: github.com/yashgautam1998
+Email: ygautam96@gmail.com
+Phone: +91 7688929065
+
+Let's connect and explore the captivating world of data science together!
+
+Thank you for visiting my profile!
